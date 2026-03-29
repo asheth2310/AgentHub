@@ -1,16 +1,70 @@
-# React + Vite
+# 🤖 AI Coding Agent Enablement Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, interactive documentation platform designed to teach developers and data engineers the core concepts of building autonomous AI agents.
 
-Currently, two official plugins are available:
+![Landing Page Preview](/C:/Users/Aagam/.gemini/antigravity/brain/f14e0498-997c-4b68-9995-e4c5de52940c/blank_page_error_1774752616998.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Overview
 
-## React Compiler
+The **AI Coding Agent Enablement Hub** provides a structured learning path from fundamental retrieval patterns to complex autonomous reasoning loops. It features high-fidelity code examples, interactive simulations, and a built-in analytics dashboard.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📖 **Comprehensive Curriculum**: Detailed guides on RAG, Function Calling, and Autonomous Agents.
+- ⚡ **Interactive Simulations**: "Run" Python code examples directly in the browser to visualize agent thought processes.
+- 🔍 **Global Search**: Instantly find concepts, tools, and best practices.
+- 📊 **Analytics Dashboard**: Track page views, engagement, and completion rates via Recharts.
+- 🌗 **Premium UI/UX**: Professional slate/indigo aesthetic with dark mode support and micro-animations.
+- 👍 **Feedback System**: Integrated thumbs up/down system to track content quality.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React 18, Vite
+- **Styling**: Vanilla CSS (Custom Design System)
+- **Icons**: Lucide React
+- **Charts**: Recharts
+- **Routing**: React Router v6
+
+## 🏁 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/asheth2310/AgentHub.git
+   cd AgentHub
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📚 Curriculum Highlights
+
+### [RAG Systems](http://localhost:5173/rag)
+Learn how to ground LLMs in external knowledge using vector databases and LangChain.
+
+### [Function Calling](http://localhost:5173/function-calling)
+Master the art of enabling models to interact with real-world APIs via structured tool-use.
+
+### [Autonomous Agents](http://localhost:5173/agents)
+Implement the ReAct pattern to create agents that can reason, act, and observe.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
