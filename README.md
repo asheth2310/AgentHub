@@ -2,7 +2,7 @@
 
 A premium, interactive documentation platform designed to teach developers and data engineers the core concepts of building autonomous AI agents.
 
-![Landing Page Preview](/C:/Users/Aagam/.gemini/antigravity/brain/f14e0498-997c-4b68-9995-e4c5de52940c/blank_page_error_1774752616998.png)
+![Landing Page Preview](./demo/demo.webp)
 
 ## 🚀 Overview
 
