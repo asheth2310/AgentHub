@@ -2,7 +2,7 @@
 
 A premium, interactive documentation platform designed to teach developers and data engineers the core concepts of building autonomous AI agents.
 
-![Landing Page Preview](./demo/demo.webp)
+![Landing Page Preview](./demo/demo.png)
 
 ## 🚀 Overview
 
